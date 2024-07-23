@@ -1,0 +1,15 @@
+C:\SimulacionDigital\Aluminio\Aluminio\bin\Debug\net6.0\Aluminio.exe
+C:\SimulacionDigital\Aluminio\Aluminio\bin\Debug\net6.0\Aluminio.deps.json
+C:\SimulacionDigital\Aluminio\Aluminio\bin\Debug\net6.0\Aluminio.runtimeconfig.json
+C:\SimulacionDigital\Aluminio\Aluminio\bin\Debug\net6.0\Aluminio.dll
+C:\SimulacionDigital\Aluminio\Aluminio\bin\Debug\net6.0\Aluminio.pdb
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.csproj.AssemblyReference.cache
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.AssemblyInfoInputs.cache
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.AssemblyInfo.cs
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.csproj.CoreCompileInputs.cache
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.dll
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\refint\Aluminio.dll
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.pdb
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\Aluminio.genruntimeconfig.cache
+C:\SimulacionDigital\Aluminio\Aluminio\obj\Debug\net6.0\ref\Aluminio.dll

@@ -1,0 +1,15 @@
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\bin\Debug\net6.0\AlumnosFacultad.exe
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\bin\Debug\net6.0\AlumnosFacultad.deps.json
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\bin\Debug\net6.0\AlumnosFacultad.runtimeconfig.json
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\bin\Debug\net6.0\AlumnosFacultad.dll
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\bin\Debug\net6.0\AlumnosFacultad.pdb
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.csproj.AssemblyReference.cache
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.AssemblyInfoInputs.cache
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.AssemblyInfo.cs
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.csproj.CoreCompileInputs.cache
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.dll
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\refint\AlumnosFacultad.dll
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.pdb
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\AlumnosFacultad.genruntimeconfig.cache
+C:\SimulacionDigital\AlumnosFacultad\AlumnosFacultad\obj\Debug\net6.0\ref\AlumnosFacultad.dll
